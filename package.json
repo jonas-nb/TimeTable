@@ -1,0 +1,25 @@
+{
+  "name": "campo-de-treino",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonas-nb/CampoTreino.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonas-nb/CampoTreino/issues"
+  },
+  "homepage": "https://github.com/jonas-nb/CampoTreino#readme",
+  "keywords": [],
+  "description": "TimeTable",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bulma": "^0.9.3",
+    "jquery": "^3.6.0"
+  }
+}
